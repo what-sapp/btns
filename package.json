@@ -1,0 +1,21 @@
+{
+  "name": "phantom-buttons",
+  "version": "1.3.2",
+  "description": "This is a plugin to make baileys more interactive",
+  "homepage": "https://github.com/what-sapp/btns",
+  "keywords": [
+    "Baileys",
+    "WhatsApp"
+  ],
+  "license": "ISC",
+  "author": "Terri",
+  "type": "commonjs",
+  "main": "export.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/what-sapp/btns.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
